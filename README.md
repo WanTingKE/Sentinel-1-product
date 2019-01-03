@@ -1,19 +1,22 @@
-<h2> Sentinel 1
+<h2> Sentinel 1 product types
   
- https://sentinel.esa.int/web/sentinel/missions/sentinel-1
+ ![image](https://user-images.githubusercontent.com/45618275/50631044-e6432700-0f7d-11e9-93fb-84b3641d72ef.png)
+![image](https://user-images.githubusercontent.com/45618275/50631051-ee9b6200-0f7d-11e9-94cd-1c85f65dd634.png)
+
+Copernicus Open Access Hub:
+https://scihub.copernicus.eu/dhus/#/home
+
+![image](https://user-images.githubusercontent.com/45618275/50631354-ea237900-0f7e-11e9-9519-a564091520ac.png)
   
-![image](https://user-images.githubusercontent.com/45618275/50390518-f172a780-0772-11e9-9a7b-3185a6fc788f.png)
   
-![image](https://user-images.githubusercontent.com/45618275/50390531-1ebf5580-0773-11e9-96ad-bc61cbccc703.png)
-  
-![image](https://user-images.githubusercontent.com/45618275/50390549-5d551000-0773-11e9-9895-922281fd6d9b.png)
+<h2> Sentinel 2 product types
+![image](https://user-images.githubusercontent.com/45618275/50631016-cd3a7600-0f7d-11e9-829c-79ca133036d8.png)
+![image](https://user-images.githubusercontent.com/45618275/50630598-72ece580-0f7c-11e9-9853-ed2de792836f.png)
+![image](https://user-images.githubusercontent.com/45618275/50630608-7ed8a780-0f7c-11e9-9829-5ac2561f47fd.png)
+![image](https://user-images.githubusercontent.com/45618275/50630626-8b5d0000-0f7c-11e9-9408-e340535ad13e.png)
+![image](https://user-images.githubusercontent.com/45618275/50630644-957efe80-0f7c-11e9-8746-b86a20d53be0.png)
+![image](https://user-images.githubusercontent.com/45618275/50630541-38834880-0f7c-11e9-9f19-3ae9dcb412af.png)
 
-![image](https://user-images.githubusercontent.com/45618275/50390553-634af100-0773-11e9-956a-6f990f87a4bb.png)
+Copernicus Open Access Hub:
 
-![image](https://user-images.githubusercontent.com/45618275/50390672-1405c000-0775-11e9-882a-5b3fb3ee1e2e.png)
-
-![image](https://user-images.githubusercontent.com/45618275/50390675-1cf69180-0775-11e9-87fa-40308bb2b919.png)
-
-![image](https://user-images.githubusercontent.com/45618275/50390678-254ecc80-0775-11e9-9ffc-88348c8a2ed4.png)
-
-
+![image](https://user-images.githubusercontent.com/45618275/50631472-5d2cef80-0f7f-11e9-9488-c082d5185dbe.png)
