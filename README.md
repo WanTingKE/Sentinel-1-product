@@ -1,7 +1,12 @@
 <h2> Sentinel 1 product types
   
- ![image](https://user-images.githubusercontent.com/45618275/50631044-e6432700-0f7d-11e9-93fb-84b3641d72ef.png)
+![image](https://user-images.githubusercontent.com/45618275/50631044-e6432700-0f7d-11e9-93fb-84b3641d72ef.png)
 ![image](https://user-images.githubusercontent.com/45618275/50631051-ee9b6200-0f7d-11e9-94cd-1c85f65dd634.png)
+![image](https://user-images.githubusercontent.com/45618275/50682389-a77aa300-1049-11e9-8038-e90c04052c2f.png)
+![image](https://user-images.githubusercontent.com/45618275/50682394-acd7ed80-1049-11e9-994e-0a2e415b83e5.png)
+
+https://sentinel.esa.int/web/sentinel/technical-guides/sentinel-1-sar
+https://sentinel.esa.int/web/sentinel/user-guides/sentinel-1-sar/acquisition-modes
 
 Copernicus Open Access Hub:
 https://scihub.copernicus.eu/dhus/#/home
