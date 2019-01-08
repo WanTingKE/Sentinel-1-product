@@ -1,8 +1,8 @@
 <h2> Sentinel 1 product types
   
-![sentinel-1 mission](https://user-images.githubusercontent.com/45618275/50804469-0893c680-1329-11e9-8124-d55305452e28.gif)
-
 <h3>reference: https://medium.com/google-earth/a-golden-age-for-earth-observation-f8b281cec4b7
+ 
+![sentinel-1 mission](https://user-images.githubusercontent.com/45618275/50804469-0893c680-1329-11e9-8124-d55305452e28.gif)
 
 ![image](https://user-images.githubusercontent.com/45618275/50631044-e6432700-0f7d-11e9-93fb-84b3641d72ef.png)
 ![image](https://user-images.githubusercontent.com/45618275/50631051-ee9b6200-0f7d-11e9-94cd-1c85f65dd634.png)
@@ -20,9 +20,9 @@ https://scihub.copernicus.eu/dhus/#/home
   
 <h2> Sentinel 2 product types
   
-![sentinel-2 mission](https://user-images.githubusercontent.com/45618275/50804499-2a8d4900-1329-11e9-96de-2f27ba631263.gif)
-
 <h3>reference: https://medium.com/google-earth/a-golden-age-for-earth-observation-f8b281cec4b7
+
+![sentinel-2 mission](https://user-images.githubusercontent.com/45618275/50804499-2a8d4900-1329-11e9-96de-2f27ba631263.gif)
 
 ![image](https://user-images.githubusercontent.com/45618275/50631016-cd3a7600-0f7d-11e9-829c-79ca133036d8.png)
 ![image](https://user-images.githubusercontent.com/45618275/50630598-72ece580-0f7c-11e9-9853-ed2de792836f.png)
