@@ -12,13 +12,11 @@
 https://sentinel.esa.int/web/sentinel/technical-guides/sentinel-1-sar
 https://sentinel.esa.int/web/sentinel/user-guides/sentinel-1-sar/acquisition-modes
 
-<h2>reference:  https://core.ac.uk/download/pdf/38629108.pdf
->###P.50
-  
 ![image](https://user-images.githubusercontent.com/45618275/51100984-9ed95800-1813-11e9-90dd-0aa6f9510392.png)
 
-
-
+<h2>reference:  https://core.ac.uk/download/pdf/38629108.pdf
+<h3>P.50
+  
 Copernicus Open Access Hub:
 https://scihub.copernicus.eu/dhus/#/home
 
