@@ -24,11 +24,10 @@ https://scihub.copernicus.eu/dhus/#/home
  
  <h2> Sentinel 1 product calibration and terrain correction
    
- <h3>reference:http://step.esa.int/main/doc/tutorials/sentinel-1-toolbox-tutorials/
-  
+ <h3>https://forum.step.esa.int/t/terrain-flattering-sigma0-beta0-and-gamma0/5593/6
  ![image](https://user-images.githubusercontent.com/45618275/51102625-a9e3b680-181a-11e9-9287-f53d10471894.png)
 
-<h3>https://forum.step.esa.int/t/terrain-flattering-sigma0-beta0-and-gamma0/5593/6
+ <h3>reference:http://step.esa.int/main/doc/tutorials/sentinel-1-toolbox-tutorials/
   
  <h2>Calibration
   
@@ -38,6 +37,9 @@ https://scihub.copernicus.eu/dhus/#/home
   
 ![sentinel1-terrain correction](https://user-images.githubusercontent.com/45618275/51025518-3bf38100-15c7-11e9-88e6-ddc5ec1894ce.gif)
   
+ <h3> Reviewing the radar equation, pointing out simplifications often made to reduce the complexity of calculating the backscatter coefficient, normalized either by ground area (sigma0), or illuminated area projected into the look direction (gamma0). The integral over the illuminated area is often approximated by a scale factor modelling a simple planar slope, departing only slightly from "ideal" flat terrain: for gamma0, the radar brightness (beta0) is normalized via modulation with the tangent of the local incidence angle.
+  
+https://ieeexplore.ieee.org/document/1370666
   
 <h2> Sentinel 2 product types
   
