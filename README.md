@@ -71,7 +71,7 @@ https://ieeexplore.ieee.org/document/1370666
 ![image](https://user-images.githubusercontent.com/45618275/51169162-25f70080-18e6-11e9-8b74-ff602844fe0d.png)
 ![image](https://user-images.githubusercontent.com/45618275/51169320-8be38800-18e6-11e9-9e7e-a0d6379e721f.png)
 ![image](https://user-images.githubusercontent.com/45618275/51169382-baf9f980-18e6-11e9-9d64-ce368bde6181.png)
-![image](https://user-images.githubusercontent.com/45618275/51170017-5344ae00-18e8-11e9-912d-35d16c2edd72.png)
+![default](https://user-images.githubusercontent.com/45618275/51170489-8cc9e900-18e9-11e9-9a47-3ab5579ce5d8.png)
 ![image](https://user-images.githubusercontent.com/45618275/51168422-2f7f6900-18e4-11e9-9ec6-76fbea60de8e.png)
  
 <h2> Sentinel 2 product types
