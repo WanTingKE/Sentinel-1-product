@@ -42,6 +42,15 @@ https://scihub.copernicus.eu/dhus/#/home
   
 https://ieeexplore.ieee.org/document/1370666
   
+<h2>The algorithm uses a DEM to make correction.
+  
+![image](https://user-images.githubusercontent.com/45618275/51166203-a6653380-18dd-11e9-960d-4345f953e9f9.png)
+![image](https://user-images.githubusercontent.com/45618275/51166224-b54be600-18dd-11e9-9fbe-7a67c4917723.png)
+
+https://www.usgs.gov/centers/eros/science/usgs-eros-archive-products-overview?qt-science_center_objects=0#qt-science_center_objects 
+
+https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm?qt-science_center_objects=0#qt-science_center_objects
+
 <h2> Sentinel 2 product types
   
 <h3>reference: https://medium.com/google-earth/a-golden-age-for-earth-observation-f8b281cec4b7
