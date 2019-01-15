@@ -53,6 +53,27 @@ https://ieeexplore.ieee.org/document/1370666
 
 <h4>https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm?qt-science_center_objects=0#qt-science_center_objects
 
+<h3>Preproceesing of the image
+<h4>-Radiometric calibration
+<h4>-Geometric calibration
+<h4>-Filter application to reduce speckle
+  
+ <h4>http://www.cazalac.org/mwar_lac/fileadmin/imagenes2/Remote_Sensing/S3A2_light.pdf 
+  
+![image](https://user-images.githubusercontent.com/45618275/51168638-c9dfac80-18e4-11e9-8169-caa30b1961c3.png)
+![image](https://user-images.githubusercontent.com/45618275/51168644-cfd58d80-18e4-11e9-88f0-ad8e2442cf09.png)
+![image](https://user-images.githubusercontent.com/45618275/51168649-d401ab00-18e4-11e9-976a-3250d9222e51.png)
+![image](https://user-images.githubusercontent.com/45618275/51168660-da902280-18e4-11e9-85c2-bbe355942375.png)
+
+ <h3>Exercise:
+  
+![image](https://user-images.githubusercontent.com/45618275/51168947-9c473300-18e5-11e9-8934-e0b7531c24ad.png)
+![image](https://user-images.githubusercontent.com/45618275/51169162-25f70080-18e6-11e9-8b74-ff602844fe0d.png)
+![image](https://user-images.githubusercontent.com/45618275/51169320-8be38800-18e6-11e9-9e7e-a0d6379e721f.png)
+![image](https://user-images.githubusercontent.com/45618275/51169382-baf9f980-18e6-11e9-9d64-ce368bde6181.png)
+![image](https://user-images.githubusercontent.com/45618275/51170017-5344ae00-18e8-11e9-912d-35d16c2edd72.png)
+![image](https://user-images.githubusercontent.com/45618275/51168422-2f7f6900-18e4-11e9-9ec6-76fbea60de8e.png)
+ 
 <h2> Sentinel 2 product types
   
 <h3>reference: https://medium.com/google-earth/a-golden-age-for-earth-observation-f8b281cec4b7
